@@ -1,0 +1,37 @@
+{
+  "name": "chryformer",
+  "version": "0.0.0",
+  "description": "The best module ever.",
+  "author": {
+    "name": "frankros91",
+    "email": "frankros91@gmail.com"
+  },
+  "repository": "frankros91/chryformer",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "chryformer",
+    ""
+  ],
+  "dependencies": {
+    "lodash": "^3.8.0",
+    "object-mapper": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "^0.12.7",
+    "jshint-stylish": "^1.0.1",
+    "load-grunt-tasks": "^3.1.0",
+    "mocha": "^2.2.4",
+    "time-grunt": "^1.1.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
