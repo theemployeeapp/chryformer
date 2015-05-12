@@ -73,7 +73,7 @@ chryformer.transform(input);
 
 # License
 
-MIT © [frankros91]()
+MIT © [APPrise-Mobile]()
 
 
 [npm-image]: https://badge.fury.io/js/chryformer.svg
