@@ -1,6 +1,6 @@
 {
   "name": "chryformer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The best module ever.",
   "author": {
     "name": "frankros91",
@@ -8,9 +8,6 @@
   },
   "repository": "APPrise-Mobile/chryformer",
   "license": "MIT",
-  "files": [
-    "index.js"
-  ],
   "keywords": [
     "chryformer",
     ""
